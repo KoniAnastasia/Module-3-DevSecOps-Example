@@ -26,7 +26,7 @@ jobs:
       #  shell: bash
       #  run: |
       #    pip install bandit
-        
+
       #- name: Bandit
       #  shell: bash
       #  run: |
